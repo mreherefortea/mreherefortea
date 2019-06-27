@@ -1,8 +1,8 @@
-1. [] Instructions can be pre-written in github and then called in LOD, by using !instructions[](path to the raw url of the directions here). 
+1. [] Instructions can be pre-written in github and then called in LOD, by using \!instructions[](path to the raw url of the directions here).
 
-  >[!knowledge] This can be a valuable tool for users who work in groups and want to version out their changes, as well as a recorded history of changes via githubt.
+    >[!knowledge] This can be a valuable tool for users who work in groups and want to version out their changes, as well as a recorded history of changes via githubt.
   
-  1. []  Just like in our edit, features like +++type text+++ work and code blocks as shown below:
+1. []  Just like in our edit, features like +++type text+++ work and code blocks as shown below:
   
     `ipconfig`
     
