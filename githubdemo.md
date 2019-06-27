@@ -10,4 +10,3 @@
 
     >[!note] remember, that changes must be made to the file in the github repo and cannot be made in the LOD editor, when the direcitons are being called from github. You can however combine both, as the directions below this message are written in the editor itself.
   
----
